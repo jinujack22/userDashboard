@@ -1,0 +1,22 @@
+.pagination-button{
+  background-color: transparent;
+  color: black;
+  font-size: 14px;
+  border: none;
+  text-decoration: underline;
+}
+.previous{
+  position: absolute;
+  left:0;
+  margin-top:20px;
+  margin-left:40px;
+}
+.next{
+  position: absolute;
+  right:0;
+  margin-top:20px;
+  margin-right:40px;
+}
+.pagination-container{
+  display: inline-flex;
+}
